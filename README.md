@@ -13,7 +13,7 @@ Metrics: Monthly prices in dollars per item
 Size: 51 observations per supplier
 
  Methodology
-1. Portfolio Variance Minimization : σ²ₚ = w²σ²ₐ + (1-w)²σ²բ + 2w(1-w)Cov(a,b)
+1. Portfolio Variance Minimization 
 
 2. Key Metrics Calculated
 Mean prices for each supplier
