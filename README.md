@@ -11,17 +11,17 @@ Size: 51 observations per supplier
 1. Portfolio Variance Minimization : σ²ₚ = w²σ²ₐ + (1-w)²σ²բ + 2w(1-w)Cov(a,b)
 
 2. Key Metrics Calculated
-Mean prices for each supplier
-
-Variance and standard deviation
-
-Covariance and correlation
-
-Optimal allocation weights
-
-Expected blended cost
-
-Minimum achievable variance
+    Mean prices for each supplier
+    
+    Variance and standard deviation
+    
+    Covariance and correlation
+    
+    Optimal allocation weights
+    
+    Expected blended cost
+   
+   Minimum achievable variance
 
 Optimal Allocation
 Supplier	Allocation	Expected Price	  Variance
